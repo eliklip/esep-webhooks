@@ -1,0 +1,17 @@
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.deps.json
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.dll
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.pdb
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.dll
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/refint/EsepWebhook.dll
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.pdb
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/eliklipskar/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/ref/EsepWebhook.dll

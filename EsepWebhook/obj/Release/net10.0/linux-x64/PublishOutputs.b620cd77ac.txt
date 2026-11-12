@@ -1,0 +1,6 @@
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.deps.json
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.runtimeconfig.json
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.pdb
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/Amazon.Lambda.Core.dll
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/eliklipskar/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.dll
